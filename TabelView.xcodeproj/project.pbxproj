@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93B0F7A52AE1744F00AE17A4 /* CrazyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B0F7A42AE1744F00AE17A4 /* CrazyCell.swift */; };
 		93EEFE902AE01DEA00F19D5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93EEFE8F2AE01DEA00F19D5E /* AppDelegate.swift */; };
 		93EEFE922AE01DEA00F19D5E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93EEFE912AE01DEA00F19D5E /* SceneDelegate.swift */; };
 		93EEFE942AE01DEA00F19D5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93EEFE932AE01DEA00F19D5E /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		93B0F7A42AE1744F00AE17A4 /* CrazyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrazyCell.swift; sourceTree = "<group>"; };
 		93EEFE8C2AE01DEA00F19D5E /* TabelView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabelView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93EEFE8F2AE01DEA00F19D5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93EEFE912AE01DEA00F19D5E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 			children = (
 				93EEFE8F2AE01DEA00F19D5E /* AppDelegate.swift */,
 				93EEFE912AE01DEA00F19D5E /* SceneDelegate.swift */,
+				93B0F7A42AE1744F00AE17A4 /* CrazyCell.swift */,
 				93EEFE932AE01DEA00F19D5E /* ViewController.swift */,
 				93EEFE952AE01DEA00F19D5E /* Main.storyboard */,
 				93EEFE9B2AE01DEB00F19D5E /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93B0F7A52AE1744F00AE17A4 /* CrazyCell.swift in Sources */,
 				93EEFE942AE01DEA00F19D5E /* ViewController.swift in Sources */,
 				93EEFE9A2AE01DEA00F19D5E /* TabelView.xcdatamodeld in Sources */,
 				93EEFE902AE01DEA00F19D5E /* AppDelegate.swift in Sources */,
